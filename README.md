@@ -111,7 +111,6 @@ model_path = hf_hub_download(
 * Model files are **not stored in this repo**
 * Uses **Git LFS on Hugging Face**
 * Designed for **local inference**
-* Optimized for hackathon demos
 
 ---
 
