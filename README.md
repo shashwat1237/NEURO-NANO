@@ -7,14 +7,16 @@ The **model weights are hosted separately** on Hugging Face.
 
 ---
 
-## 🚀 Features
+🚀 Features
 
-* ⚡ Fast local inference
-* 🧠 GGUF-based LLM support
-* 💻 Runs fully offline
-* 🪶 Optimized for low-RAM systems
-* 🧩 Modular and extensible
-
+⚡ Fast local inference using optimized GGUF models  
+🧠 Supports quantized LLMs for efficient on-device AI  
+💻 Fully offline — no internet or API dependency  
+🪶 Runs on low-RAM systems (consumer-grade hardware)  
+🧩 Modular design for easy model swapping and extension  
+🔒 Privacy-friendly (all inference runs locally)  
+⚙️ Cross-platform execution (Windows/Linux)  
+📦 Lightweight deployment without cloud setup  
 ---
 
 ## 📦 Model Weights
