@@ -5,10 +5,10 @@
 This repository contains the **inference code and runtime tools**.
 The **model weights are hosted separately** on Hugging Face.
 
+
 ---
-
 🚀 Features
-
+---
 ⚡ Fast local inference using optimized GGUF models  
 🧠 Supports quantized LLMs for efficient on-device AI  
 💻 Fully offline — no internet or API dependency  
@@ -17,7 +17,7 @@ The **model weights are hosted separately** on Hugging Face.
 🔒 Privacy-friendly (all inference runs locally)  
 ⚙️ Cross-platform execution (Windows/Linux)  
 📦 Lightweight deployment without cloud setup  
----
+
 
 ## 📦 Model Weights
 
