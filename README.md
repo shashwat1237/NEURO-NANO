@@ -124,6 +124,4 @@ MIT License
 **Shashwat**
 GitHub: [https://github.com/shashwat1237](https://github.com/shashwat1237)
 Model: [https://huggingface.co/FREAKKAERF/neuro-nano](https://huggingface.co/FREAKKAERF/neuro-nano)
- 🎯 Make it recruiter-friendly
-
-Just tell me 👍
+ 
